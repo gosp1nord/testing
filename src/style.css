@@ -1,0 +1,9 @@
+.card-dis {
+  opacity: 0.3;
+}
+.line-input {
+  margin-top: 5px;
+}
+.error {
+  color: red;
+}

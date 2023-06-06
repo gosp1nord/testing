@@ -1,0 +1,9 @@
+import './images/amex.png';
+import './images/diners.png';
+import './images/discover.png';
+import './images/jcb.png';
+import './images/mastercard.png';
+import './images/mir.png';
+import './images/visa.png';
+import './style.css';
+import './script';
